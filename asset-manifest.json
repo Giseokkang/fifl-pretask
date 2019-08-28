@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/fifl-pretask/static/js/main.33e311df.chunk.js",
+    "main.js.map": "/fifl-pretask/static/js/main.33e311df.chunk.js.map",
+    "runtime~main.js": "/fifl-pretask/static/js/runtime~main.b07786c8.js",
+    "runtime~main.js.map": "/fifl-pretask/static/js/runtime~main.b07786c8.js.map",
+    "static/css/2.3363eac6.chunk.css": "/fifl-pretask/static/css/2.3363eac6.chunk.css",
+    "static/js/2.f89a6197.chunk.js": "/fifl-pretask/static/js/2.f89a6197.chunk.js",
+    "static/js/2.f89a6197.chunk.js.map": "/fifl-pretask/static/js/2.f89a6197.chunk.js.map",
+    "index.html": "/fifl-pretask/index.html",
+    "precache-manifest.bf1784289a1a9c3a87d4186cb64b5712.js": "/fifl-pretask/precache-manifest.bf1784289a1a9c3a87d4186cb64b5712.js",
+    "service-worker.js": "/fifl-pretask/service-worker.js",
+    "static/css/2.3363eac6.chunk.css.map": "/fifl-pretask/static/css/2.3363eac6.chunk.css.map",
+    "static/media/slick-theme.css": "/fifl-pretask/static/media/slick.f97e3bbf.svg"
+  }
+}
